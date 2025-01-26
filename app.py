@@ -1,5 +1,5 @@
 import streamlit as st
-from fpdf2 import FPDF
+from fpdf import FPDF
 import json
 from datetime import datetime
 
